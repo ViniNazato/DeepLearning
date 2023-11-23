@@ -10,11 +10,10 @@ The project aims to demonstrate a basic image classification pipeline using PyTo
 
 Before running the code, ensure you have the following dependencies installed:
 
-- Python 3.x
+- Python 3.10
 - PyTorch
-- torchvision
 - matplotlib
 - numpy
 
 ## Acknowledgments
- - The MNIST dataset was used in this project. More information about the dataset can be found here.
+ - The MNIST dataset was used in this project. More information about the dataset can be found here: https://en.wikipedia.org/wiki/MNIST_database and www.di.ens.fr/~lelarge/MNIST.tar.gz
